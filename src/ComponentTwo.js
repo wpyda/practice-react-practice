@@ -1,7 +1,7 @@
 import React from 'react'
 
-const ComponentOne = (props)  => {
+const ComponentTwo = (props)  => {
     return <div>{props.text}</div>
 }
 
-export default ComponentOne
+export default ComponentTwo

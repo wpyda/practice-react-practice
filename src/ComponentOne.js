@@ -1,12 +1,12 @@
 import React from 'react'
-import ComponentOne from "./ComponentOne";
+import ComponentTwo from "./ComponentTwo";
 
-const ComponentTwo = (props)  => {
+const ComponentOne = (props)  => {
     return (<div>
-            <ComponentOne text={props.text}/>
+            <ComponentTwo text={props.text}/>
         </div>
 
 )
 }
 
-export default ComponentTwo
+export default ComponentOne
