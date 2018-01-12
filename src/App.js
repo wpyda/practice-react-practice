@@ -32,7 +32,7 @@
 
 import React from 'react'
 
-import ComponentTwo from "./ComponentOne"
+import ComponentTwo from "./ComponentTwo"
 
 const App = () => (
     <div>
