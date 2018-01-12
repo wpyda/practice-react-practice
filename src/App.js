@@ -32,18 +32,10 @@
 
 import React from 'react'
 
-// import Concatenation from "./Concatenation";
-
 import ComponentTwo from "./ComponentOne"
 
 const App = () => (
     <div>
-        {/*<Concatenation*/}
-        {/*firstText="First Text"*/}
-        {/*secondText="Second Text"*/}
-        {/*showSecondText={true}*/}
-        {/*/>*/}
-
         <ComponentTwo text = "Ala ma kota" />
     </div>
 
