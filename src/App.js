@@ -32,11 +32,11 @@
 
 import React from 'react'
 
-import ComponentTwo from "./ComponentTwo"
+import ComponentOne from "./ComponentOne"
 
 const App = () => (
     <div>
-        <ComponentTwo text = "Ala ma kota" />
+        <ComponentOne text = "Ala ma kota" />
     </div>
 
 
